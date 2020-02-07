@@ -25,4 +25,8 @@ public class Braille {
         System.out.println(J + u + s + t + i + n);
     }
     
+    static void HelloWorld(){
+        System.out.println("Hello World");
+    }
+    
 }
