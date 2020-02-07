@@ -27,6 +27,7 @@ public class Braille {
     
     static void HelloWorld(){
         System.out.println("Hello World");
+        System.out.println("Hello There again!");
     }
     
 }
